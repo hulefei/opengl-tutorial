@@ -9,6 +9,7 @@ link_directories(Libraries/lib)
 add_subdirectory(tutorial00_install)
 add_subdirectory(tutorial01_create_window)
 add_subdirectory(tutorial02_triangle)
+add_subdirectory(tutorial04_organizing)
 # Tutorial 1
 #add_executable(tutorial00_install tutorial00_install/tutorial00.cpp)
 
